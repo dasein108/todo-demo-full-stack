@@ -1,0 +1,14 @@
+.todo-item-content {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: 25px;
+}
+
+.todo-item-content .completed {
+  width: 30px;
+}
+
+.todo-item-content .editable {
+  width: 100%;
+}
